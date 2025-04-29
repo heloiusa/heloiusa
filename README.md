@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou cursando Análise e Desenvolvimento de Sistemas na <br>Faculdade Senac, buscando estágio na área da tecnologia no  <br>desenvolvimento frontend.
+Estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac, buscando estágio na área da tecnologia no desenvolvimento frontend.
 
 
 ## 🌐 Socials:
